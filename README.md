@@ -28,7 +28,7 @@ The experience guides users through creating a personalized Valentine message, p
 
 ## 📂 Case Study & Design Documents
 - 📄 **Case Study Document:**  
-  [Link to case study document](https://docs.google.com/document/d/1DhyzWmPlZzytizseFeA-tQNmh4-YoBe62sUQ7w0RwJc/edit?usp=sharing)
+  [Case study document](https://docs.google.com/document/d/1DhyzWmPlZzytizseFeA-tQNmh4-YoBe62sUQ7w0RwJc/edit?usp=sharing)
 - 🎨 **Design Document:**  
   [Design document](https://docs.google.com/document/d/1TngR0MORXpHpdLY8Am8ZbWiH5RAtQ_ClUFbf531cR-o/edit?usp=sharing)
 
@@ -62,7 +62,7 @@ OR
 Use a local server (recommended), e.g. Live Server in VS Code
 
 
-🤝 Collaboration Workflow
+## 🤝 Collaboration Workflow
 main → stable production-ready code
 
 development → integration branch
@@ -72,20 +72,17 @@ feature/* → individual features (header, hero, about, create-love-note-section
 Each feature was developed in its own branch and merged into development via pull requests before final integration.
 
 
-✨ Key Learnings
-Applying semantic HTML beyond basic tags
-
-Maintaining logical heading hierarchy
-
-Using GitHub collaboratively with multiple feature branches
-
-Writing clear PR descriptions and review comments
+## ✨ Key Learnings
+- Applying semantic HTML beyond basic tags
+- Maintaining logical heading hierarchy
+- Using GitHub collaboratively with multiple feature branches
+- Writing clear PR descriptions and review comments
 
 
-📌 Status
+## 📌 Status
 Project is actively being improved and refined as part of the program.
 
 
-📬 Contact
+## 📬 Contact
 For questions or feedback, feel free to reach out via GitHub.
 
